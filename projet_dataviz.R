@@ -341,4 +341,4 @@ ggplot(fulldt) +
   theme_minimal()
 
 ##=> Les élèves qui déclarent consommer peu d'alcool en semaine, sont plus nombreux à bénéficier de soutien scolaire
-test 
+test hugo
